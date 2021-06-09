@@ -11,17 +11,17 @@ I am a recent graduate from LearningFuze Coding Bootcamp and just started becomi
 
 ### :computer: Skills
 
-*HTML5
-*CSS
-*JavaScript
-*React
-*Figma
-*Git
-*Github
-*VS Code
-*Photoshop
-*Flexbox
-*Firebase
+* HTML5
+* CSS
+* JavaScript
+* React
+* Figma
+* Git
+* Github
+* VS Code
+* Photoshop
+* Flexbox
+* Firebase
 
 
 ### My Latest Application 
