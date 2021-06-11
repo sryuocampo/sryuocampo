@@ -4,7 +4,7 @@
 
 * [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sarah-ryu-ocampo-8791b0133/)
 
-* [Resume](sryuocampo/Sarah_Ryu_Ocampo_Resume.pdf)
+* [Resume](sryuocampo/sryuocampo/Sarah_Ryu_Ocampo_Resume.pdf)
 
 ### About Me...
 
